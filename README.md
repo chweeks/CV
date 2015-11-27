@@ -44,15 +44,15 @@ __Makers Academy__								 August 2015 – November 2015
 Makers Academy is a selective software development bootcamp based in London and is currently considered the best in Europe, with an emphasis on not just learning to code but becoming a developer. With an intensive 7 day a week program for three months, I am now fully confident in a wide range of technologies and am even more confident in my ability to be able to quickly learn and apply new technologies as and when they are required.
 
 __Current Skills:__
-*HTML, CSS, Bootstrap
-*Ruby, Ruby on Rails, Sinatra
-*Javascript, JQuery, AngularJS
-*Ionic
-*Github, Heroku
-*Rspec, Capybara, Jasmine, Protractor, Karma
-*PSQL, Firebase
-*REST API’s
-*Awareness of SOLID principles, TDD and BDD design principles
+* HTML, CSS, Bootstrap
+* Ruby, Ruby on Rails, Sinatra
+* Javascript, JQuery, AngularJS
+* Ionic
+* Github, Heroku
+* Rspec, Capybara, Jasmine, Protractor, Karma
+* PSQL, Firebase
+* REST API’s
+* Awareness of SOLID principles, TDD and BDD design principles
 
 __UNIVERSITY OF LANCASTER__							         2011 – 2014
 Physics Bsc (Hons)
