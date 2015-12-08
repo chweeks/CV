@@ -17,6 +17,7 @@ https://github.com/chweeks/ravebot
 __Solar System Simulator__:
 An application built in javascript and Jquery to simulate the orbital motion of planets around our sun. Uses Newton’s laws of gravitation in the backend with javascript  to simulate a circular orbit around our sun, varying with the target planet’s density and speed.
 https://github.com/chweeks/solar-system.git
+solar-system-app.herokuapp.com
 
 
 ##Personal
@@ -30,11 +31,11 @@ I follow industry standard practises such as TDD, BDD and SOLID principles withi
 __NETJETS EUROPE__									 October 2015 – Present
 https://www.netjetseurope.com
 Freelance Software Development – Full stack
-Currently working with NetJets, the world’s largest private charter jet company, in order to create a dynamic safety and compliance iOS application for use by their pilots in order to improve both the quality of safety reporting as well as actual rates of submission. The main focus was to build an application as user friendly as possible to encourage quick and consistent reporting of safety issues. The finished product was built with an AngularJS and Ionic frontend that communicated with a Rails API backend; while a PSQL database housed the information submitted. 
+Currently working with NetJets, the world’s largest private charter jet company, in order to create a dynamic safety and compliance iOS application for use by their pilots in order to improve both the quality of safety reporting as well as actual rates of submission. The main focus was to build an application as user friendly as possible to encourage quick and consistent reporting of safety issues. The finished product was built with an AngularJS and Ionic frontend that communicated with a Rails API backend; while a PSQL database housed the information submitted.
 
 __MAKERS ACADEMY__								November 2015 – Present
 Shoreditch, London
-Consultant 
+Consultant
 
 Currently working as an Alumni Helper at Makers Academy. In my role I am there to assist students, with varying levels of experience, with their studies and ensure they get the most out of their learning experience throughout the course.
 
