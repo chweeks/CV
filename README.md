@@ -47,7 +47,7 @@ Makers Academy is a selective software development bootcamp based in London and 
 __Current Skills:__
 * HTML, CSS, Bootstrap
 * Ruby, Ruby on Rails, Sinatra
-* Javascript, JQuery, AngularJS
+* Javascript, JQuery, AngularJS, React
 * Ionic
 * Github, Heroku
 * Rspec, Capybara, Jasmine, Protractor, Karma
